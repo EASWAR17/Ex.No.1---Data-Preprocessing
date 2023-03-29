@@ -104,4 +104,4 @@ print("Size of X_test: ",len(X_test))
 ![size2](https://user-images.githubusercontent.com/94154683/228592179-56762c01-f5dc-47ad-93ab-b4bdd147aced.png)
 
 ## RESULT
-/Type your result here/
+Data preprocessing is performed in the given dataset.
